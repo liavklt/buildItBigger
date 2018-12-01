@@ -12,81 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15a887b2-79c8-43c6-9ca8-48a7ea5a3388" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jokeactivity/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jokeactivity/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jokeactivity/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jokeactivity/src/androidTest/java/com/example/android/jokeactivity/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jokeactivity/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jokeactivity/src/main/java/com/example/android/jokeactivity/JokeDisplayActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jokeactivity/src/main/java/com/example/android/jokeactivity/JokeDisplayActivityFragment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jokeactivity/src/main/res/layout/activity_joke_display.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jokeactivity/src/main/res/layout/content_joke_display.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jokeactivity/src/main/res/layout/fragment_joke_display.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jokeactivity/src/main/res/menu/menu_joke_display.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jokeactivity/src/main/res/values/dimens.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jokeactivity/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jokeactivity/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jokeactivity/src/test/java/com/example/android/jokeactivity/ExampleUnitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/distributions/backend-discoveryDocs.zip" beforeDir="false" afterPath="$PROJECT_DIR$/backend/build/distributions/backend-discoveryDocs.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/appengine-web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/classes/com/udacity/gradle/builditbigger/backend/MyBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/classes/com/udacity/gradle/builditbigger/backend/MyEndpoint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/appengine-api-1.0-sdk-1.9.56.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/commons-codec-1.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/commons-lang3-3.2.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/commons-logging-1.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/endpoints-framework-2.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/google-api-client-1.23.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/google-api-client-appengine-1.21.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/google-api-client-servlet-1.21.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/google-http-client-1.23.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/google-http-client-android-1.23.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/google-http-client-appengine-1.21.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/google-http-client-jackson2-1.23.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/google-http-client-jdo-1.21.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/google-oauth-client-1.23.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/google-oauth-client-appengine-1.21.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/google-oauth-client-servlet-1.21.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/guava-19.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/guava-jdk5-17.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/httpclient-4.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/httpcore-4.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/jackson-annotations-2.6.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/jackson-core-2.6.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/jackson-databind-2.6.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/jackson-dataformat-yaml-2.4.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/jackson-datatype-joda-2.4.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/javax.inject-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/jdo2-api-2.3-eb.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/joda-time-2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/jsr305-3.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/servlet-api-2.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/slf4j-api-1.7.21.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/slf4j-nop-1.7.21.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/snakeyaml-1.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/swagger-annotations-1.5.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/swagger-core-1.5.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/swagger-models-1.5.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/transaction-api-1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/lib/validation-api-1.1.0.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/logging.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/exploded-backend/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/libs/backend.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/build/tmp/war/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -185,13 +111,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fragment_joke_display.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="fragment_joke_display.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jokeactivity/src/main/res/layout/fragment_joke_display.xml">
           <provider editor-type-id="text-editor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="android-designer2">
             <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -4518,6 +4453,7 @@
         <option value="$PROJECT_DIR$/javaJokes/src/main/java/com/example/android/javajokes/JokePool.java" />
         <option value="$PROJECT_DIR$/javaJokes/src/test/java/com/example/android/javajokes/JokeTellerTest.java" />
         <option value="$PROJECT_DIR$/javaJokes/src/main/java/com/example/android/javajokes/JokeTeller.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -4632,84 +4568,6 @@
               <item name="BuildItBigger" type="b2602c69:ProjectViewProjectNode" />
               <item name="BuildItBigger" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
-            <path>
-              <item name="BuildItBigger" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BuildItBigger" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="javaJokes" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="BuildItBigger" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BuildItBigger" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="javaJokes" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BuildItBigger" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BuildItBigger" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="javaJokes" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BuildItBigger" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BuildItBigger" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="javaJokes" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BuildItBigger" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BuildItBigger" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="javaJokes" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="javajokes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BuildItBigger" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BuildItBigger" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="jokeactivity" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="BuildItBigger" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BuildItBigger" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="jokeactivity" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BuildItBigger" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BuildItBigger" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="jokeactivity" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BuildItBigger" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BuildItBigger" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="jokeactivity" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BuildItBigger" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BuildItBigger" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="jokeactivity" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BuildItBigger" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BuildItBigger" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="jokeactivity" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-              <item name="layout" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -4730,6 +4588,12 @@
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.example.android.javajokes" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="com.example.android.jokeactivity" />
+    </key>
+    <key name="android.template.parentActivityClass">
+      <recent name="" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -4982,6 +4846,14 @@
       <option name="presentableId" value="Default" />
       <updated>1543585126138</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add gitignore file">
+      <created>1543702419628</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543702419628</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -4997,7 +4869,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="Android Profiler" order="12" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -5036,6 +4907,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add gitignore file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add gitignore file" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/build.gradle">
@@ -5193,11 +5068,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -5236,6 +5106,13 @@
       </provider>
       <provider selected="true" editor-type-id="android-designer2">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
       </provider>
     </entry>
   </component>
