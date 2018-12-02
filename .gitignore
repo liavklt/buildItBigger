@@ -8,3 +8,5 @@
 .externalNativeBuild
 .idea
 /.idea/workspace.xml
+/backend/build/
+/backend/gradle.properties
